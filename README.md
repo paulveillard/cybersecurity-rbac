@@ -3,5 +3,5 @@ An ongoing & curated collection of awesome  rbac software, software best practic
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources
 
 Role-based Access Control (RBAC) according to NIST SP 900-53 Rev.5:
-> Access control based on user roles
+> Access control based on user roles (i.e a collection of access authorizations a user receives based on an explicit or implicit assumption of a given role). Role permissions may be inherited through a role hiearchy
 > 
